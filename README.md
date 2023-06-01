@@ -1,0 +1,2 @@
+# File Uploader for Google Drive 2.0
+ This project is a Python script that allows you to download files from a given URL and save them to a specified folder in your Google Drive. It supports a queue feature that allows you to add multiple download links to the queue and the script will automatically download them one by one. This can be useful when you need to download multiple files from different URLs and want to automate the process.
